@@ -14,7 +14,7 @@ The first user to click the button wins, and can enjoy the glory during the rest
 
 ## Usage
 
-Install the bot, and then proceed by waiting for a wild BUTTON to appear.
+Install the bot, and then proceed by waiting for a wild BUTTON to appear. Click buttons.
 
 ## Installation, configuration, and running
 
